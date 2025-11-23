@@ -5,7 +5,7 @@
 
 ---
 
-##🚀 About Me
+## 🚀 About Me
 I'm a passionate **Frontend Developer from India** with **4+ years of experience** building scalable, fast, and user-focused web applications.  
 I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering**, delivering pixel-perfect, responsive, and high-performance solutions.
 
@@ -17,7 +17,7 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 
 ---
 
-##🌐 Connect With Me  
+## 🌐 Connect with Me 
 <p>
   <a href="https://www.linkedin.com/in/bhupendrakoranga-sde/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -32,7 +32,7 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 
 ---
 
-🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,git,github,vscode" />
 </p>
