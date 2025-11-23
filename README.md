@@ -3,9 +3,9 @@
 </h1>
 <h3 align="center">Frontend Engineer • React.js & Next.js Specialist • Building scalable and modern web experiences 🚀</h3>
 
----
 
-## 🚀 About Me
+
+🚀 About Me
 I'm a passionate **Frontend Developer from India** with **4+ years of experience** building scalable, fast, and user-focused web applications.  
 I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering**, delivering pixel-perfect, responsive, and high-performance solutions.
 
@@ -15,9 +15,9 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 - 📫 Reach me at **bhupendrakoranga123@gmail.com**
 - ⚡ Fun fact: **I love Chai more than Coffee — change my mind 😄**
 
----
 
-## 🌐 Connect With Me  
+
+🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/bhupendrakoranga-sde/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -30,22 +30,12 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
   </a>
 </p>
 
----
 
-## 🛠️ Languages & Tools
+
+🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhupendrakoranga&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendrakoranga&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ## 💼 Featured Projects
 Here are some of my highlighted projects:
