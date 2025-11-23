@@ -36,5 +36,3 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,git,github,vscode" />
 </p>
-
----
