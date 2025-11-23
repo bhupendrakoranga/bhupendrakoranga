@@ -1,17 +1,71 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Koranga</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Engineer • React.js & Next.js Specialist • Building scalable and modern web experiences 🚀</h3>
 
-- 💬 Ask me about **React, Next JS, JavaScript**
+---
 
-- 📫 How to reach me **bhupendrakoranga123@gmail.com**
+## 🚀 About Me
+I'm a passionate **Frontend Developer from India** with **4+ years of experience** building scalable, fast, and user-focused web applications.  
+I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering**, delivering pixel-perfect, responsive, and high-performance solutions.
 
-- ⚡ Fun fact **⚡ Fun fact Chai tastes way better than Coffee | Change my mind!**
+- 🔭 Currently working as **Frontend Engineer**
+- 🌱 Learning & improving my skills in **Next.js 14, TypeScript, UI/UX**
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind**
+- 📫 Reach me at **bhupendrakoranga123@gmail.com**
+- ⚡ Fun fact: **I love Chai more than Coffee — change my mind 😄**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/bhupendra-koranga-6124471bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhupendra-koranga-6124471bb" height="30" width="40" /></a>
-<a href="https://instagram.com/with_bhupesh_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="with_bhupesh_07" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bhupendrakoranga" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/bhupendra.750533" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://bhupendrakoranga.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhupendrakoranga&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendrakoranga&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+Here are some of my highlighted projects:
+
+### 🔹 **Study Portal** (TypeScript)
+A student portal built with modern tooling.  
+🔗 https://github.com/bhupendrakoranga/study-portal
+
+### 🔹 **Real Estate Website**
+A responsive real-estate platform using React + TypeScript.  
+🔗 https://github.com/bhupendrakoranga/real-estate-project
+
+### 🔹 **Machine Round Interview Questions – Frontend**
+A curated list of frontend interview problems.  
+🔗 https://github.com/bhupendrakoranga/Machine-round-interview-question-Frontend
+
+---
+
+## 💡 Quote I Follow  
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
+Thanks for visiting my GitHub profile 🙌
