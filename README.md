@@ -18,15 +18,15 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/bhupendrakoranga" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://instagram.com/bhupendra.750533" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   <a href="https://bhupendrakoranga.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
