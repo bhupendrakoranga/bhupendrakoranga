@@ -19,10 +19,10 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/bhupendrakoranga" target="_blank">
+  <a href="https://www.linkedin.com/in/bhupendrakoranga-sde/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/bhupendra.750533" target="_blank">
+  <a href="https://www.instagram.com/with_bhupesh_07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   <a href="https://bhupendrakoranga.vercel.app/" target="_blank">
