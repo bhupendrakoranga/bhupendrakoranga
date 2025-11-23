@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bhupendra Koranga</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Bhupendra Koranga
+</h1>
 <h3 align="center">Frontend Engineer • React.js & Next.js Specialist • Building scalable and modern web experiences 🚀</h3>
 
 ---
