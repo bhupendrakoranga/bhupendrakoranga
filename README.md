@@ -37,27 +37,4 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux,git,github,vscode" />
 </p>
 
-## 💼 Featured Projects
-Here are some of my highlighted projects:
-
-### 🔹 **Study Portal** (TypeScript)
-A student portal built with modern tooling.  
-🔗 https://github.com/bhupendrakoranga/study-portal
-
-### 🔹 **Real Estate Website**
-A responsive real-estate platform using React + TypeScript.  
-🔗 https://github.com/bhupendrakoranga/real-estate-project
-
-### 🔹 **Machine Round Interview Questions – Frontend**
-A curated list of frontend interview problems.  
-🔗 https://github.com/bhupendrakoranga/Machine-round-interview-question-Frontend
-
 ---
-
-## 💡 Quote I Follow  
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**  
-Thanks for visiting my GitHub profile 🙌
