@@ -12,7 +12,7 @@ I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering*
 - 🔭 Currently working as **Frontend Engineer**
 - 🌱 Learning & improving my skills in **Next.js 14, TypeScript, UI/UX**
 - 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind**
-- 📫 Reach me at **bhupendrakoranga123@gmail.com**
+- 📫 Reach me at **bhupendra.koranga.dev@gmail.com**
 - ⚡ Fun fact: **I love Chai more than Coffee — change my mind 😄**
 
 ---
