@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Frontend Developer from India** with **4+ years of experience** building scalable, fast, and user-focused web applications.  
+I'm a passionate **Frontend Developer from India** with **4.6+ years of experience** building scalable, fast, and user-focused web applications.  
 I specialize in **React.js, Next.js, TypeScript, JavaScript, and UI engineering**, delivering pixel-perfect, responsive, and high-performance solutions.
 
 - 🔭 Currently working as **Frontend Engineer**
